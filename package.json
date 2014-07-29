@@ -1,0 +1,24 @@
+{
+  "name": "funky",
+  "version": "0.0.1",
+  "description": "A simple util lib for misc functional programming functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mjnw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wayneseymour/funky.git"
+  },
+  "keywords": [
+    "utils",
+    "util",
+    "existy",
+    "truthy"
+  ],
+  "author": "Wayne Kenneth Seymour III",
+  "license": "MIT",
+  "devDependencies": {
+    "minijasminenodewrap": "1.0.0"
+  }
+}
