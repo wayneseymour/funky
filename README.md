@@ -12,6 +12,7 @@ require('funky');  // Not assigned to a variable, place in global scope.
 
 ### How to test
 ```shell
+```javascript
 $ npm test
 ```
 ### Note
