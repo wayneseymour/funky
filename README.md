@@ -5,14 +5,13 @@ Misc functional programming functions.
 
 ### How to use
 ```javascript
-require('funky');  // Not assigned to a variable, place in global scope.
+var f = require('funky');  // Not assigned to a variable, place in global scope.
 
-// Now, just use truthy() and/or existy() as you please.
+// Now, just use f.truthy() and/or f.existy() as you please.
 ```
 
 ### How to test
 ```shell
-```javascript
 $ npm test
 ```
 ### Note

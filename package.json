@@ -1,6 +1,6 @@
 {
   "name": "funky",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A simple util lib for misc functional programming functions.",
   "main": "index.js",
   "scripts": {
