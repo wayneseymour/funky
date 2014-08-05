@@ -5,7 +5,7 @@ Misc functional programming functions.
 
 ### How to use
 ```javascript
-var f = require('funky');  // Not assigned to a variable, place in global scope.
+var f = require('funky');
 
 // Now, just use f.truthy() and/or f.existy() as you please.
 ```
